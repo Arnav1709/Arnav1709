@@ -1,20 +1,9 @@
-Open Source Contributor @Learning Unlimited (ESP-Website), Founding Engineer @Flowbee AI, Software Developer @1000xdev.
+ Founding Engineer @Flowbee AI, Software Developer @1000xdev, Open Source Contributor @Learning Unlimited (ESP-Website).
 
 [![Linkedin Badge](https://img.shields.io/badge/-arnavkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnav-kumar-9691a61b4/)](https://www.linkedin.com/in/arnav-kumar-9691a61b4/) 
 [![GitHub Badge](https://img.shields.io/badge/-Arnav1709-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Arnav1709)](https://github.com/Arnav1709)
 
 ### Works
-
-**Open Source**
-
-1. **[ESP-Website (Learning Unlimited)](https://github.com/learning-unlimited/ESP-Website)**: 80+ PRs contributed (60+ merged).  
-   * **Key Contributions:**
-      * Migrated the development environment from **Vagrant to Docker**, improving contributor onboarding and reproducibility.
-      * Eliminated **N+1 query bottlenecks** and enforced transactional integrity using `@transaction.atomic`.
-      * Strengthened **CI/CD pipelines** with caching, concurrency controls, and security hardening.
-      * Contributed across backend improvements, performance optimizations, and contributor tooling.
-
----
 
 **Internships / Professional Experience**
 
@@ -32,6 +21,17 @@ Open Source Contributor @Learning Unlimited (ESP-Website), Founding Engineer @Fl
       * Implemented **BullMQ-based background queues** for scheduled scraping and ingestion.
       * Built a **4-stage LLM pipeline** using OpenRouter to normalize and rank product data.
       * Integrated **ScrapingBee and ScraperAPI** for structured extraction from SERP and product pages.
+
+---
+
+**Open Source**
+
+1. **[ESP-Website (Learning Unlimited)](https://github.com/learning-unlimited/ESP-Website)**: 80+ PRs contributed (60+ merged).  
+   * **Key Contributions:**
+      * Migrated the development environment from **Vagrant to Docker**, improving contributor onboarding and reproducibility.
+      * Eliminated **N+1 query bottlenecks** and enforced transactional integrity using `@transaction.atomic`.
+      * Strengthened **CI/CD pipelines** with caching, concurrency controls, and security hardening.
+      * Contributed across backend improvements, performance optimizations, and contributor tooling.
 
 ---
 
@@ -53,11 +53,3 @@ Open Source Contributor @Learning Unlimited (ESP-Website), Founding Engineer @Fl
 
 ---
 
-**Skills**
-
-- **Languages:** C, C++, Dart, Java, JavaScript, TypeScript  
-- **Frameworks:** Flutter, Node.js, Express.js  
-- **Developer Tools:** Git, Docker, Postman, Linux  
-- **Cloud/Databases:** Firebase, PostgreSQL, MongoDB, SQL  
-
----
